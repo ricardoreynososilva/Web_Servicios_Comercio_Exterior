@@ -22,7 +22,7 @@
       logo.src = "images/logo/logo-2.png";
     } else {
       header_navbar.classList.remove("sticky");
-      logo.src = "/images/logo/logo.png";
+      logo.src = "images/logo/logo.png";
     }
 
     // show or hide the back-top-top button
